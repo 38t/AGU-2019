@@ -1,1 +1,1 @@
-# AGU-2019
+# slcmd.bash
